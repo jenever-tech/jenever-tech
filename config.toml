@@ -4,6 +4,7 @@ title = "晴玖科技JeneverTech"
 theme = "syna"
 enableGitInfo = false
 version = "0.1.0"
+publishdir    = "public"
 
 # Google Analytics tracking
 googleAnalytics = "UA-46261454-2"
