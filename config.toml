@@ -1,10 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "https://jenever-tech.gitlab.io/jenever-tech/"
 languageCode = "zh-tw"
 title = "晴玖科技JeneverTech"
 theme = "syna"
 enableGitInfo = false
 version = "0.1.0"
-publishdir    = "public"
+publishdir = "public"
 
 # Google Analytics tracking
 googleAnalytics = "UA-46261454-2"
