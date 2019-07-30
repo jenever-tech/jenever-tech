@@ -27,9 +27,9 @@ lastmod = ["lastmod", ":git", "date"]
   # Assets relative to 'static/'
   [params.custom]
     favicon = "favicon.ico"
-    favicon_ico_sizes = "16x16 32x32"
-    favicon_png = "favicon.png"
-    favicon_svg = "favicon.svg"
+  #  favicon_ico_sizes = "16x16 32x32"
+  #  favicon_png = "favicon.png"
+  #  favicon_svg = "favicon.svg"
 
   # Optional, global disable switch for fontawesome related files
   # For custom fontawesome js files use the custom.js method
