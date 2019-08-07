@@ -5,28 +5,27 @@ date = "2017-10-05"
 weight = 100
 #background = ""
 
-title = "About Syna"
+title = "About Us"
 #subtitle = ""
 +++
 
-Open Source Theme from Okkur for your next project.
+Jenever-tech成立於2019年6月，由一群熱愛技術的工程師組建
+我們鍾情於自身專業技能的精進，更致力於將資訊技術應用至各個領域
 
-Syna is based on the awesome work by digitalcraftsman with his Hugo Agency Theme.
+高效的開發力配合高品質的自律，提供最有效率的資訊解決方案
 
-The Hugo Agency Theme was based on the work of David Miller with his Startupbootstrap Agency Theme.
+提供最專業的服務並專注於打造最有競爭力的好產品
 
-**Provided with <3 by Okkur Labs**
+**營運現況**
 
 ---
 
-To actually test out the full single page some Lorem Ipsum:
+Jenever-tech擁有多種資訊領域的技術人才，提供最佳的解決方案以及最能呈現客戶商業模式的專案分析，並採用模組化的規劃與開發模式來執行客戶的需求，降低成本以及專案的風險。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur a lorem urna. Quisque in neque malesuada, sollicitudin nunc porttitor, ornare est. Praesent ante enim, bibendum sed hendrerit et, iaculis laoreet felis. Morbi efficitur dui sit amet orci porttitor, nec tincidunt turpis elementum. Suspendisse rutrum, mi ac sollicitudin blandit, eros sem tincidunt enim, vitae feugiat turpis eros ut diam. Nunc hendrerit, nibh vitae dignissim pretium, magna nulla lacinia massa, et interdum lacus purus ultricies lacus. Nulla tincidunt quis lacus in posuere. Integer urna lorem, ultricies ut est vel, rhoncus euismod metus. Vestibulum luctus maximus massa, ut egestas est iaculis in. Nunc nisi dolor, sodales et imperdiet ut, lacinia ac justo. Phasellus ultrices risus cursus maximus lobortis. Vestibulum sagittis elementum dignissim. Suspendisse iaculis venenatis nisl, sed bibendum urna. Aliquam quis pellentesque tortor. Sed sed cursus nisl. Aenean eu lorem condimentum, feugiat mauris vitae, hendrerit tellus.
+除了系統整合以及行動裝置應用程式的開發外，Jenever-tech也提供最有效益的維護服務方案，透過整合雲端服務的方案讓客戶不再像往昔需要顧慮是否要不斷的添購資訊設備或是聘用不到理想的資訊人員，只需要專注於營運和商業佈局。
 
-Morbi ac sapien at risus volutpat tincidunt. Sed vel lobortis nisl. Sed mattis facilisis dui quis luctus. Aliquam bibendum venenatis tellus, non interdum nunc convallis in. Sed elementum aliquam tortor, vel consectetur sem sollicitudin sit amet. Nullam in elit turpis. Phasellus sagittis lacus massa, eu porta erat dapibus a. Phasellus placerat, nisi nec molestie accumsan, elit ex rutrum augue, ac pulvinar nulla nisl id velit. Pellentesque sapien dolor, tempus vitae elementum in, gravida ac arcu. Morbi facilisis, mi eget fringilla posuere, lorem ipsum euismod ex, id consequat lacus nisl ac tortor. Vivamus pulvinar dui non arcu lacinia faucibus. Vestibulum sapien leo, pretium in ligula et, aliquet mattis augue. Vestibulum tristique mi ultrices suscipit placerat. Nunc vehicula volutpat tellus sed fringilla.
+**未來發展**
 
-Curabitur ipsum ipsum, malesuada at tempus sed, pretium vulputate nunc. Praesent nec lectus ut mauris cursus hendrerit a vitae risus. Aliquam sodales lorem nisl, ut euismod dolor interdum ac. Vivamus facilisis justo vulputate augue finibus imperdiet. Aenean sem magna, tempus id orci eu, sodales pulvinar metus. Nullam pharetra ornare est. Vestibulum aliquet turpis et porttitor euismod. Nulla vitae orci orci. Suspendisse fringilla faucibus blandit. Nulla suscipit nulla ut massa elementum sollicitudin. Vivamus ultrices ipsum arcu, in vestibulum erat aliquam quis. Suspendisse eget mauris tellus. Maecenas euismod blandit odio, sed pellentesque orci mollis eget. Sed eget magna eu justo mollis hendrerit.
+---
 
-Suspendisse molestie, tellus quis finibus facilisis, nulla neque euismod mi, at aliquet lectus arcu ac neque. Proin lacus augue, porttitor in odio vitae, sollicitudin laoreet mi. Donec posuere hendrerit augue hendrerit ornare. Duis vestibulum, nisl sit amet cursus lobortis, felis sapien consequat augue, et accumsan eros ligula id nisl. Praesent iaculis fringilla molestie. Sed consequat nec mi vel venenatis. Nunc felis dui, bibendum ac laoreet pretium, cursus ut orci. Nullam risus nulla, tempus ut bibendum quis, consectetur in risus.
-
-Etiam eget metus elit. Praesent turpis mi, malesuada nec libero a, cursus varius leo. In malesuada gravida est, nec maximus turpis posuere eu. Proin rutrum mattis lectus. Ut mi elit, tincidunt ut aliquet consequat, facilisis vitae arcu. Proin ut massa auctor, imperdiet sem ac, varius justo. Integer porta tellus quis eros sollicitudin mollis. Donec nulla sem, porttitor et velit vitae, tincidunt congue erat. Vivamus urna libero, viverra non pharetra eu, bibendum id arcu. In fermentum bibendum purus, vitae pharetra ipsum gravida quis. Nunc vitae congue diam. Maecenas pharetra orci vel magna fermentum, vitae auctor sapien consectetur. Nunc tempor erat vel nisi ullamcorper mollis. Sed et lectus accumsan, pharetra nunc scelerisque, finibus leo. Sed tempor eros nec nunc porta sodales.
+未來除了與合作夥伴配合執行的系統整合、行動裝置應用程式的相關開發外，後續也將整合ＡＩ以及區塊鏈等各項新技術的專業知識，來提供給客戶嶄新的資訊應用服務。
