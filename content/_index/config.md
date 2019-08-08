@@ -18,8 +18,8 @@ fragment = "config"
     <script>
       var partners = [
         {
-          'name': 'Carol - xxxxxx',
-          'quotation': 'RRRRRRRRRRRRRRRRR',
+          'name': 'Carol - intellicloud',
+          'quotation': 'have a good cooperation',
           'image_url': 'http://192.168.11.130:1313/images/logo.svg'
         }
       ]

@@ -14,8 +14,8 @@ menu_title = "Contact Us"
   url = "#"
 +++
 
-#### Description Title
+#### Description
 
-Project description such as:
-Open source theme for your next project
-Provided by Okkur Labs
+System Integration<br>
+Mobile Application<br>
+Cloud Services (IaaS、PaaS、SaaS) 
