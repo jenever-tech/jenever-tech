@@ -7,7 +7,7 @@ background = "text_light" # can influence the text color
 particles = true
 
 title = "Jenever Tech"
-subtitle = "Technical problem solver"
+subtitle = "Technical Problem Solver"
 
 [header]
   image = "header.jpg"

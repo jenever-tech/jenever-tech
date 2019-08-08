@@ -17,7 +17,6 @@ var Counter = () => {
   return (
     <div className="container py-4 text-center">
       <h3 className="text-dark">Partners Recommend</h3>
-      <h4 className="text-dark">XXXXXXXXXXXXXXXX</h4>
       <div className="row justify-content-center mt-4 quotes">
         <Slider {...settings}>
           { 
