@@ -1,5 +1,6 @@
 +++
 fragment = "content"
+disabled = true
 title = "React Portal"
 background = "light"
 +++
